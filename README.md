@@ -6,6 +6,8 @@ This repository contains utilities for Geometry Dash-related content featured on
 
 * Python
 
-## Description Generator
+## Utility Description
 
-## Thumbnail Generator
+### Description Generator
+
+### Thumbnail Generator
