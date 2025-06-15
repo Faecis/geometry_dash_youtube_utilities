@@ -5,6 +5,7 @@ This repository contains utilities for Geometry Dash-related content featured on
 ## Stack
 
 * Python
+* OpenCV
 
 ## Utility Description
 
